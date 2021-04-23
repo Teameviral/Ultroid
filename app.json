@@ -1,7 +1,7 @@
 {
-    "name": "Ultroid UserBot",
+    "name": "Skynoid",
     "description": "Pluggable telegram userbot, made in python using Telethon.",
-    "logo": "https://telegra.ph/file/031957757a4f6a5191040.jpg",
+    "logo": "https://telegra.ph/file/08186572b79c9b45fa08d.jpg",
     "keywords": [
         "Telethon",
         "telegram",
@@ -9,17 +9,17 @@
         "python",
         "ultroid"
     ],
-    "repository": "https://github.com/TeamUltroid/Ultroid",
-    "website": "https://ultroid.tech",
-    "success_url": "https://t.me/TheUltroid",
+    "repository": "https://github.com/TeamEviral/Skynoidbeta",
+    "website": "https://codetech.org/",
+    "success_url": "https://t.me/skynoidbot",
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "You api id, from my.telegram.org or @ScrapperRoBot.",
+            "description": "You api id, from my.telegram.org .",
             "value": ""
         },
         "API_HASH": {
-            "description": "You api hash, from my.telegram.org or @ScrapperRoBot.",
+            "description": "You api hash, from my.telegram.org.",
             "value": ""
         },
         "BOT_USERNAME": {
